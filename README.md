@@ -31,7 +31,7 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 ---
 
 ## 📊 GitHub Stats  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SabirinMohamudAdan&theme=radical)](https://git.io/streak-stats)  
+
 
 [![Sabirin's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabirinMohamudAdan&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
