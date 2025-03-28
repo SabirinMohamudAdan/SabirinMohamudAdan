@@ -40,4 +40,5 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 
 
 ## 📌 Most Used Languages  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirinMohamudAdan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabirinMohamudAdan&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
