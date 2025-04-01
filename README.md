@@ -45,16 +45,6 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 
 
 
-### 🚀 Technologies I Use  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)  
-[![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)  
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
-
-
-## 🌍 Most Used Languages & Technologies  
-
-[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabirinMohamudAdan&theme=radical)](https://github.com/SabirinMohamudAdan)  
 
 ### 🚀 Technologies I Use  
 <p align="left">
