@@ -50,7 +50,7 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 
 
 
-### 🚀 Technologies I Use  
+### 🚀 Most Technologies I Use  
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
