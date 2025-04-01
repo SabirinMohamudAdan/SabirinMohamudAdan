@@ -38,7 +38,8 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 
 ## 🏆 GitHub Contributions  
 
-[![GitHub Contributions](https://komarev.com/ghpvc/?username=SabirinMohamudAdan&label=Total%20Contributions&color=brightgreen&style=plastic)](https://github.com/SabirinMohamudAdan)
+[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=SabirinMohamudAdan&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/SabirinMohamudAdan)
+
 
 
 
