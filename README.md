@@ -42,18 +42,9 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SabirinMohamudAdan&theme=radical&ring=FF1493&fire=FF1493&currStreakLabel=FFD700)](https://git.io/streak-stats)
 
-## 🏆 GitHub Contributions  
+
 
 [![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=SabirinMohamudAdan&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/SabirinMohamudAdan)
-
-
-## 🏆 GitHub Streak & Activity  
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SabirinMohamudAdan&theme=radical&ring=FF1493&fire=FF1493&currStreakLabel=FFD700)](https://git.io/streak-stats)
-[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph/?username=SabirinMohamudAdan&bg_color=2e3b4e&color=FF1493&line=FF1493&point=FFFFFF&area=true&hide_border=true)](https://github.com/SabirinMohamudAdan)
-
-
-
 
 
 ## 📌 Most Used Languages  
