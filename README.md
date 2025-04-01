@@ -36,7 +36,10 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 [![Sabirin's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabirinMohamudAdan&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=SabirinMohamudAdan&show_icons=true&count_private=true&theme=radical)](https://github.com/SabirinMohamudAdan)
+## 🏆 GitHub Contributions  
+
+[![GitHub Contributions](https://komarev.com/ghpvc/?username=SabirinMohamudAdan&label=Total%20Contributions&color=brightgreen&style=plastic)](https://github.com/SabirinMohamudAdan)
+
 
 
 ## 📌 Most Used Languages  
