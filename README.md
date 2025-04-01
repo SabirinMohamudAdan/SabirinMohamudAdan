@@ -41,6 +41,10 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 
 ## 📌 Most Used Languages  
  
-[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabirinMohamudAdan&theme=radical)](https://github.com/SabirinMohamudAdan)
+
+
+[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabirinMohamudAdan&theme=radical)](https://github.com/SabirinMohamudAdan)  
+[![Most Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabirinMohamudAdan&theme=radical)](https://github.com/SabirinMohamudAdan)  
+
 
 
