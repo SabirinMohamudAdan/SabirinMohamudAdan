@@ -33,10 +33,40 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 
 
 
-curl -s -H "Authorization: token YOUR_TOKEN" \
-  "https://api.github.com/repos/YOUR_USER/REPO/collaborators" \
-  | jq -r '.[] | "<img src=\"\(.avatar_url)\" width=\"50\"> <a href=\"\(.html_url)\">\(.login)</a><br>"' \
-  > collaborators.html && open collaborators.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Repo Collaborators</title>
+  <style>
+    .collab { display: flex; align-items: center; margin: 10px; }
+    img { width: 50px; border-radius: 50%; margin-right: 10px; }
+  </style>
+</head>
+<body>
+  <h1>🛠️ My GitHub Collaborators</h1>
+  <div id="collabs"></div>
+  <script>
+    fetch("https://api.github.com/repos/YOUR_USERNAME/REPO_NAME/collaborators", {
+      headers: { "Authorization": "token YOUR_TOKEN" }
+    })
+      .then(res => res.json())
+      .then(data => {
+        let html = "";
+        data.forEach(user => {
+          html += `
+            <div class="collab">
+              <img src="${user.avatar_url}" alt="${user.login}">
+              <a href="${user.html_url}" target="_blank">${user.login}</a>
+            </div>
+          `;
+        });
+        document.getElementById("collabs").innerHTML = html;
+      })
+      .catch(err => console.error("Error:", err));
+  </script>
+</body>
+</html>
+https://gist.githubusercontent.com/YOUR_GIST_USERNAME/GIST_ID/raw/collaborators.html
 
 ## 📊 GitHub Stats  
 
