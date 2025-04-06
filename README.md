@@ -33,7 +33,10 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 
 
 
-curl -H "Authorization: token YOUR_GITHUB_TOKEN" "https://api.github.com/repos/YOUR_USERNAME/REPO_NAME/collaborators"
+curl -s -H "Authorization: token YOUR_TOKEN" \
+  "https://api.github.com/repos/YOUR_USER/REPO/collaborators" \
+  | jq -r '.[] | "<img src=\"\(.avatar_url)\" width=\"50\"> <a href=\"\(.html_url)\">\(.login)</a><br>"' \
+  > collaborators.html && open collaborators.html
 
 ## 📊 GitHub Stats  
 
