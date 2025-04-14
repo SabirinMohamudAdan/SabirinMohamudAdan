@@ -43,6 +43,8 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 
 [![Sabirin's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=SabirinMohamudAdan&theme=redical&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Sabirin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabirinMohamudAdan&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
 
