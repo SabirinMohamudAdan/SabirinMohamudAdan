@@ -41,6 +41,7 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 [![Sabirin's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabirinMohamudAdan&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirinMohamudAdan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 
 ## 🏆 GitHub Contributions & Streak  
