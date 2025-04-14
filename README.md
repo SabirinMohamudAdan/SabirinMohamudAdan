@@ -42,8 +42,6 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=SabirinMohamudAdan&theme=aura)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirinMohamudAdan&layout=compact&theme=aura)]
-[![Streak](https://streak-stats.demolab.com/?user=SabirinMohamudAdan&theme=aura)]
 
 
  
