@@ -46,7 +46,11 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 
 
 
+# My Awesome Project
 
+[![GitHub stars](https://img.shields.io/github/stars/SabirinMohamudAdan/my-project?style=social)](https://github.com/SabirinMohamudAdan/my-project)
+
+A short description of your project...
 
  
 
