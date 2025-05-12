@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Sabirin Mohamud Adan
 
 🚀 **About Me**  
-I'm a Full-Stack Developer with expertise in the MERN (MongoDB, Express, React, Node.js) Stack. Passionate about web development,  
+I'm a Full-Stack Developer  ,MERN (MongoDB, Express, React, Node.js) Stack. Passionate about web development,  
 I enjoy crafting scalable, efficient, and user-friendly solutions. Always eager to explore new technologies,  
 I strive to improve my skills and stay ahead in the ever-evolving tech landscape.
 
 💻 **Currently working on:** Full-stack applications using React, Node.js, PHP  
 
-🔍 **Ask me about:** JavaScript, React, Node.js, PHP, Spring Boot, and MERN Stack.  
+🔍 **Ask me about:** JavaScript, React, Node.js, PHP,  and MERN Stack.  
 
 📬 **Reach out at:** sabrinmohamud247@gmail.com  
 
@@ -25,7 +25,7 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+
 </p>
 
 ---
