@@ -7,7 +7,7 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 
 💻 **Currently working on:** Full-stack applications using React, Node.js, PHP  
 
-🔍 **Ask me about:** JavaScript, React, Node.js, PHP,  and MERN Stack.  
+🔍 **Ask me about:** JavaScript, React, Node.js,  and MERN Stack.  
 
 📬 **Reach out at:** sabrinmohamud247@gmail.com  
 
