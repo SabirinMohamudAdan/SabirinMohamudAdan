@@ -5,8 +5,7 @@ I'm a Full-Stack Developer  ,MERN (MongoDB, Express, React, Node.js) Stack. Pass
 I enjoy crafting scalable, efficient, and user-friendly solutions. Always eager to explore new technologies,  
 I strive to improve my skills and stay ahead in the ever-evolving tech landscape.
 
-💻 **Currently working on:** Full-stack applications using React, Node.js, PHP  
-
+💻 **Currently working on:** Full-stack applications using React, Node.js
 🔍 **Ask me about:** JavaScript, React, Node.js,  and MERN Stack.  
 
 📬 **Reach out at:** sabrinmohamud247@gmail.com  
