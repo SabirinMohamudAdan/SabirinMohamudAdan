@@ -52,14 +52,6 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 
 ## 🏆 GitHub Contributions & Streak  
 
-
-## 🏆 GitHub Contributions & Streak
-
-[![Sabirin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabirinMohamudAdan&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/SabirinMohamudAdan)
-
-
-
-
 [![Sabirin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabirinMohamudAdan&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
