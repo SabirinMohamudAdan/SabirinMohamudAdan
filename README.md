@@ -38,8 +38,7 @@ I strive to improve my skills and stay ahead in the ever-evolving tech landscape
 ## 📊 GitHub Stats  
 
 
-[![Sabirin's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabirinMohamudAdan&theme=radical&include_all_commits=true&count_private=true)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![Sabirin's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabirinMohamudAdan&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Sabirin's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=SabirinMohamudAdan&theme=redical&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
